@@ -355,6 +355,7 @@ section
 .logo
 {
 	margin-left: 7px;
+        background-image: url(/images/logo.png);
 }
 .logo a
 {
